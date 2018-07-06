@@ -16,4 +16,9 @@
       </plugin>
     </plugins>
   </build>
+  <parent>
+  	<artifactId>com.prolan.maven</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  	<groupId>com.prolan.maven</groupId>
+  </parent>
 </project>
