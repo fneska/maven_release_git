@@ -9,7 +9,7 @@
 	<groupId>hu.prolan</groupId>
 	<artifactId>hu.prolan.parent</artifactId>
 
-	<version>1.4.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 
@@ -23,8 +23,7 @@
 		<connection>scm:scm:git:https://github.com/fneska/maven_release_git</connection>
 		<developerConnection>scm:git:https://github.com/fneska/maven_release_git</developerConnection>
 
-	  <tag>HEAD</tag>
-  </scm>
+	</scm>
 
 	<distributionManagement>
 		<repository>
