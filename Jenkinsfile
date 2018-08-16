@@ -8,6 +8,6 @@ node{
   }
   stage('release'){
      
-    sh "release.sh"
+    sh "/home/fneska/release.sh"
   }
   }
