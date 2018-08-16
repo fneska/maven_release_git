@@ -7,6 +7,7 @@ node{
     sh "${mvnHome}/bin/mvn clean install"
   }
   stage('release'){
-      bat 'start cmd.exe /c release.bat'
+      #bat 'start cmd.exe /c release.bat'
+    sh "release.sh"
   }
   }
