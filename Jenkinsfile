@@ -1,6 +1,6 @@
 node{
   stage('SCM Checkout'){
-      git 'https://github.com/fneska/maven_release_git'
+      git 'https://github.com/fneska/maven_release_git/tree/release'
   }
   stage('Clean Instal'){
       def mvnHome = tool name: 'maven', type: 'maven'
@@ -8,6 +8,6 @@ node{
   }
   stage('release'){
      
-    sh "/home/fneska/Documents/release.sh"
+    sh "release.sh"
   }
   }
