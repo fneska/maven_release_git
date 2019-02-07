@@ -20,7 +20,7 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/fneska/maven_release_git/tree/releaseBranch</connection>
-<!-- 		<url>https://github.com/fneska/maven_release_git</url> -->
+<url>scm:git:https://github.com/fneska/maven_release_git/tree/releaseBranch</url> 
 		<tag>com.prolan.maven.parent-1.9.4</tag>
   	</scm>
 
