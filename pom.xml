@@ -28,7 +28,7 @@
 		<repository>
 			<id>internal.repo</id>
 			<name>Internal repo</name>
-			<url>file://home/fneska/</url>
+			<url>file://home</url>
 			<layout>default</layout>
 		</repository>
 	</distributionManagement>
