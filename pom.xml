@@ -28,7 +28,7 @@
 		<repository>
 			<id>internal.repo</id>
 			<name>Internal repo</name>
-			<url>file://c:/Users/fekete.agnes/my_github2/maven_release_git</url>
+			<url>file://home/fneska/</url>
 			<layout>default</layout>
 		</repository>
 	</distributionManagement>
