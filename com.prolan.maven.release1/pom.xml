@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.prolan.maven</groupId>
   <artifactId>com.prolan.maven.release1</artifactId>
-  <version>16.10.45</version>
+  <version>16.10.46-SNAPSHOT</version>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
@@ -18,11 +18,7 @@
   </build>
   <parent>
   	<artifactId>com.prolan.maven.parent</artifactId>
-  	<version>16.10.45</version>
+  	<version>16.10.46-SNAPSHOT</version>
   	<groupId>com.prolan.maven</groupId>
   </parent>
-
-  <scm>
-    <tag>com.prolan.maven.parent-16.10.45</tag>
-  </scm>
 </project>
