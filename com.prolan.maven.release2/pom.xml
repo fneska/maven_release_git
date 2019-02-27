@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.prolan.maven</groupId>
   <artifactId>com.prolan.maven.release2</artifactId>
-  <version>16.10.45</version>
+  <version>16.10.46-SNAPSHOT</version>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
