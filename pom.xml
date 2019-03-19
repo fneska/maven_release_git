@@ -8,7 +8,7 @@
 	<groupId>com.prolan.maven</groupId>
 	<artifactId>com.prolan.maven.parent</artifactId>
 
-	<version>16.10.51-SNAPSHOT</version>
+	<version>16.10.55</version>
 	<packaging>pom</packaging>
 
 
@@ -21,7 +21,7 @@
 	<scm>
 	<connection>scm:git:https://github.com/fneska/maven_release_git.git</connection>
 	<url>scm:git:https://github.com/fneska/maven_release_git</url> 
-		<tag>com.prolan.maven.parent-16.10.45</tag>
+		<tag>com.prolan.maven.parent-16.10.55</tag>
   	</scm>
 
 	<distributionManagement>
